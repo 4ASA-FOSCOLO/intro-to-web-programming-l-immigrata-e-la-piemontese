@@ -6,3 +6,10 @@
 [LINK](https://4asa-foscolo.github.io/intro-to-web-programming-l-immigrata-e-la-piemontese/)
 
 [EDIT ONLINE](https://github.dev/4ASA-FOSCOLO/intro-to-web-programming-l-immigrata-e-la-piemontese)
+
+# TO DO
+
+- div e section
+- hero section con immagini di immigrati in bianco e nero ecc..
+- identità storica
+- collegamenti esterni per parlare della storia di uno stato specifico (immigrati albanesi, del sud italia, ecc..)
