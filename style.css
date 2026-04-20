@@ -1,8 +1,8 @@
 body {
-    background-color: red;
+    background-color: c8fde9;
 }
 /* RESET BASE */
-* {
+  {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
